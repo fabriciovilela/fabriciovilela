@@ -1,10 +1,10 @@
-## Fabricio Vilela - Designer | Desenvolvedor | Consultor
+## Fabricio Vilela - Designer | Developer | Consultant
 
-Possuo um perfil multidisciplinar que me possibilita fazer o desenvolvimento de aplicações, desde a concepção (UX), planejamento (UI), criação (programação), publicação (deploy) até a divulgação (marketing).
+I have a multidisciplinary profile that allows me to develop applications, from conception (UX), planning (UI), creation (programming), publication (deploy) to dissemination (marketing).
 ####
-Tenho conhecimentos tanto em Back-end como em Front-end, tendo mais experiência no Front.
+I have knowledge in both Back-end and Front-end, having more experience in Front.
 ####
-Minha base de programação gira em torno do ecossistema Javascript, tendo conhecimentos sólidos em React, React Native e Node.Js, seguido de várias linguagens e ferramentas correlatas a este ecossistema, como HTML, CSS, Sass, Git dentre outros.
+My programming base revolves around the Javascript ecosystem, having solid knowledge in React, React Native and Node.Js, followed by several languages ​​and tools related to this ecosystem, such as HTML, CSS, Sass, Git, among others.
 ###
 <div align="center">
   <a href="https://github.com/fabriciovilela">
@@ -55,7 +55,7 @@ Minha base de programação gira em torno do ecossistema Javascript, tendo conhe
 
 ##
 
-## Contato e social
+## Contact and social
 
 <div> 
   <a href = "mailto:hello@fabriciovilela.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
