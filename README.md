@@ -6,11 +6,6 @@ I have knowledge in both Back-end and Front-end, having more experience in Front
 ####
 My programming base revolves around the Javascript ecosystem, having solid knowledge in React, React Native and Node.Js, followed by several languages ​​and tools related to this ecosystem, such as HTML, CSS, Sass, Git, among others.
 ###
-<div align="center">
-  <a href="https://github.com/fabriciovilela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciovilela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciovilela&theme=dark"/>
-</div>
 
 ##
 
